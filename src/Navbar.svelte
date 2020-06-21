@@ -1,5 +1,5 @@
 <script>
-  import "../node_modules/bulma/css/bulma.min.css";
+
 </script>
 
 <style>
